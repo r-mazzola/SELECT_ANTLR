@@ -1,0 +1,5 @@
+SELECT `*` FROM `Tab1`
+WHERE `Peso`<'60'
+OR `Altezza`<200
+
+;
