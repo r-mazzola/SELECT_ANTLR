@@ -1,5 +1,4 @@
 # SELECT_ANTLR
-## Progetto L&amp;C
 Questo progetto è stato creato come parte del corso di Linguaggi e Compilatori e tratta un utilizzo pratico del linguaggio ANTLR.
 In particolare ci focalizziamo sulla realizzazione di un compilatore in grado di interpretare una query scritta in linguaggio SQL.
 Nel caso specifico di questa applicazione ci occupiamo della gestione di una versione semplificata del comando SELECT che permette di filtrare i dati in base alle richieste specificate nella clausola WHERE.
